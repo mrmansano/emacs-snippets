@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: header
+# key: header
+# --
+/**
+ * Copyright `(format-time-string "%Y")` Pumatronix Equipamentos Eletrônicos LTDA.
+ *
+ *  @file `(file-name-nondirectory (buffer-file-name))`
+ *  @brief ${1:Description}
+ *
+ *  @author Marcelo dos Reis Mansano (marcelo@pumatronix.com.br)
+ *  @bug No known bugs.
+ */

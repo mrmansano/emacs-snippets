@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: startuml 
+# key: start
+# --
+@startuml
+
+title $1
+
+@enduml
